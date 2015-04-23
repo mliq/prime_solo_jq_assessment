@@ -10,7 +10,7 @@
     padding: 10px;
 }
 
-#changeColor {
+.changeColor {
     width: 100px;
     height: 10px;
     background-color: orangered;
@@ -22,7 +22,7 @@
     padding: 10px;
 }
 
-#remove {
+.remove {
     width: 100px;
     height: 10px;
     background-color: lightgrey;

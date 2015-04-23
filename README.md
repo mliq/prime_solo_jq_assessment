@@ -16,7 +16,7 @@ A minified version of jQuery version 1.x (note that you will need to include jQu
 
 2. The Change Color button should change the background color of the div container relative to the Change Color button that was clicked. For the purpose of this challenge, you can add extra functionality that when clicked again, it can change the color back to the original, BUT THIS IS NOT REQUIRED. Focus on core functionality first. Extra stuff later if you have time.
 
-    3. The Remove Button should remove the parent Div container of the button that was clicked, removing the entire div, which contains the text, and the two additional buttons (the Change Color and Remove buttons). 
+3. The Remove Button should remove the parent Div container of the button that was clicked, removing the entire div, which contains the text, and the two additional buttons (the Change Color and Remove buttons). 
 
 Once you are complete, check in the code into your personal GitHub, entitling the Repo “prime_solo_jq_assessment”. Then, be respectful that some of your peers are still working and remain quiet. Feel free to exit the room once complete if you are feeling like you can no longer contain yourself. The goal is to not overwhelm those who are still working with your speed.
 
