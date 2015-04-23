@@ -1,8 +1,8 @@
 # Prime Solo jQuery Assessment
 
-"Welcome to your solo assessment. There is a specific reason I did not call this a ‘test’. We want to get an idea of where you are at. This is an ‘open book’ challenge, but it is completely solo. Normally we encourage collaboration, but this is not one of those times. We want to know better how you are doing. 
+*Welcome to your solo assessment. There is a specific reason I did not call this a ‘test’. We want to get an idea of where you are at. This is an ‘open book’ challenge, but it is completely solo. Normally we encourage collaboration, but this is not one of those times. We want to know better how you are doing.* 
 
-If you have a hard time with this challenge, don’t stress. Take a deep breathe and break it all down. Your peers around you might finish early, don’t let that freak you out either. Take a look through your notes, there is literally nothing in this challenge that is ‘stretch’ or that we have not discussed in lecture. Take your time, focus on you, and try your best."
+*If you have a hard time with this challenge, don’t stress. Take a deep breathe and break it all down. Your peers around you might finish early, don’t let that freak you out either. Take a look through your notes, there is literally nothing in this challenge that is ‘stretch’ or that we have not discussed in lecture. Take your time, focus on you, and try your best.*
 
 **-Scott**
 
