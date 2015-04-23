@@ -12,7 +12,7 @@ An app.js file,
 A stylesheet.css file,
 A minified version of jQuery version 1.x (note that you will need to include jQuery into your project. If you have a hard time with this, feel free to use a CDN version, but we would prefer to see a copy local to your files)
 
-In your HTML, include a ‘generate’ button, that when clicked, will generate a new div container in the app.js. The new div should include some text that reads “Line #” and then a number specific to the number of time the generate button has been clicked. In addition to the text, you will need to include two buttons within the new div. One button will be entitled ‘Change Color’ and the other button will entitled “Remove”.
+    In your HTML, include a ‘generate’ button, that when clicked, will generate a new div container in the app.js. The new div should include some text that reads “Line #” and then a number specific to the number of time the generate button has been clicked. In addition to the text, you will need to include two buttons within the new div. One button will be entitled ‘Change Color’ and the other button will entitled “Remove”.
 
 The Change Color button should change the background color of the div container relative to the Change Color button that was clicked. For the purpose of this challenge, you can add extra functionality that when clicked again, it can change the color back to the original, BUT THIS IS NOT REQUIRED. Focus on core functionality first. Extra stuff later if you have time.
 
