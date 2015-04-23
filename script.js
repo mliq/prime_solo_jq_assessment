@@ -24,7 +24,7 @@ $(document).ready(function(){
             };
         });
 
-        $('.remove').on('click',function(){
+        $('.remove').last().on('click',function(){
             $(this).closest('.line').remove();
         });
     });
