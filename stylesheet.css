@@ -9,3 +9,27 @@
     vertical-align: middle;
     padding: 10px;
 }
+
+#changeColor {
+    width: 100px;
+    height: 10px;
+    background-color: lightgrey;
+    border: 2px solid black;
+    font-family: monospace;
+    font-size: 12px;
+    text-align:center;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+#remove {
+    width: 100px;
+    height: 10px;
+    background-color: lightgrey;
+    border: 2px solid black;
+    font-family: monospace;
+    font-size: 12px;
+    text-align:center;
+    vertical-align: middle;
+    padding: 10px;
+}
