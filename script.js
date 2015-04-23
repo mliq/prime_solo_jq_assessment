@@ -1,4 +1,6 @@
 var i = 0;
+var color;
+var colorDiv;
 
 $(document).ready(function(){
 
@@ -7,16 +9,19 @@ $(document).ready(function(){
         $('body').append("<div class='line'>Line #"+i+
             "<div class='changeColor'>Change Color</div><div class='remove'>Remove</div></div>");
 
-        $('.changeColor').on('click',function(){
+        $('.changeColor').last().on('click',function(){
 
-            var color = $(this).closest('.line').css('background-color');
+            colorDiv = $(this).parents('.line');
+            color = colorDiv.css('background-color');
 
-            if(color == 'rgb(255, 255, 255)' || color == 'rgba(0, 0, 0, 0)') {
-                $(this).closest('.line').css('background-color', 'orangered');
+            //alert(color);
+
+            if(color == 'rgb(255, 69, 0)') {
+                colorDiv.css('background-color', 'white');
             }
             else {
-                $(this).closest('.line').css('background-color', 'white');
-            }
+                colorDiv.css('background-color', 'orangered');
+            };
         });
 
         $('.remove').on('click',function(){
